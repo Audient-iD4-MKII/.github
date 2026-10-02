@@ -4,11 +4,7 @@
   <img src="https://manuals.plus/wp-content/uploads/2021/10/AUDIENT-iD4-MKII-USB-C-Audio-Interface-logo.jpg" alt="Audient iD4 MKII Audio Interface"/>
 </p>
 
-<p align="center">
-  <a href="https://audient-id4-mkii.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Audient_iD4-blue?style=for-the-badge&logo=github" alt="Get Audient iD4"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://camriaryhanon.github.io/.github/Audient-iD4-MKII)
 
 ---
 
